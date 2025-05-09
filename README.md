@@ -9,7 +9,7 @@
 - 🌱 Estudando **boas práticas de arquitetura, mensageria e cloud**
 - 💬 Me pergunte sobre: `C#`, `.NET`, `SQL Server`, `React`, `AWS`, `Docker`, `Mensageria`
 - 📫 Contato: **eliasbarrosdev@gmail.com**
-- 📄 [LinkedIn]((https://www.linkedin.com/in/elias-barros-2214641a4/))
+- 📄 [LinkedIn] **https://www.linkedin.com/in/elias-barros-2214641a4/**
 
 ---
 
