@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Elias Barros Junior</h1>
+<h1 align="center">Olá 👋, eu sou Elias Barros </h1>
 <h3 align="center">Desenvolvedor Full Stack com foco em .NET e React</h3>
 
 ---
@@ -8,8 +8,8 @@
 - 🔭 Atualmente trabalho como desenvolvedor backend e frontend com foco em aplicações escaláveis
 - 🌱 Estudando **boas práticas de arquitetura, mensageria e cloud**
 - 💬 Me pergunte sobre: `C#`, `.NET`, `SQL Server`, `React`, `AWS`, `Docker`, `Mensageria`
-- 📫 Contato: **seuemail@exemplo.com**
-- 📄 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- 📫 Contato: **eliasbarrosdev@gmail.com**
+- 📄 [LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/elias-barros-2214641a4/))
 
 ---
 
