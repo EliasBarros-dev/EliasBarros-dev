@@ -33,7 +33,7 @@
 ### 📊 Linguagens mais usadas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasBarros-dev&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
 </p>
 
 ---
